@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.concurrent.ExecutionException;
 import java.util.Scanner;
 
-public class ParallelArraySum {
+public class Lab1 {
 
     private static final int ARRAY_SIZE = 500000;
 
