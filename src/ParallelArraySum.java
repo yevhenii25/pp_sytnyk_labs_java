@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class ParallelArraySum {
 
-    private static final int ARRAY_SIZE = 50;
+    private static final int ARRAY_SIZE = 500000;
 
     public static void main(String[] args) {
         int[] array = generateArray(ARRAY_SIZE);
